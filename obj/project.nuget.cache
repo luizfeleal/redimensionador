@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJYzOH7qRXyLJXHOnbqrj3dN8FPBIresxYZzNN2y+fepZzCAwu3y5JvYxgGjMSCoaVdOxkIbiMBzoQmrkOPQeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Área de Trabalho\\aprendendo_csharp\\didadicos.redimensionador\\didadicos.redimensionador\\didadicos.redimensionador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
